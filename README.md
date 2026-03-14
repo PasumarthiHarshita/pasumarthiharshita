@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Harshita Pasumarthi
 
-<!--
-**PasumarthiHarshita/pasumarthiharshita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student  
+💻 MERN | Java | Python | Machine Learning  
+📊 Learning DSA  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+• DESTINATION STAYS — Hotel Booking Platform (Python)  
+• Prescription Analysis & Medication Adherence System (AI + OCR + NLP)  
+• Next Word Prediction using NLP  
+
+
+## 🛠 Tech Stack
+• Java • Python • JavaScript  
+• HTML • CSS • React • Node.js  
+• MongoDB • MySQL  
+• Git • GitHub • VS Code  
+
+
+## 📫 Contact
+• Email: pasumarthiharshita61@gmail.com
