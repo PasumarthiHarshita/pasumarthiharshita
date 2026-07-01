@@ -1,23 +1,46 @@
-# Hi 👋 I'm Harshita Pasumarthi
+# Hi 👋, I'm Harshita Pasumarthi
 
-🎓 CSE Student  
-💻 MERN | Java | Python | Machine Learning  
-📊 Learning DSA  
+🎓 B.Tech CSE Student  
+💻 Aspiring Java Full Stack Developer  
+📍 Passionate about Java, Backend Development & Problem Solving
 
+---
 
 ## 🚀 Projects
-• Employee Management and Payroll System (Java)
-• DESTINATION STAYS — Hotel Booking Platform (Python)  
-• Prescription Analysis & Medication Adherence System (AI + OCR + NLP)  
-• Next Word Prediction using NLP  
 
+- **Employee Management and Payroll System**  
+  *Java 17 • Swing • JDBC • MySQL*
+
+- **Prescription Analysis & Medication Adherence System**  
+  *AI • OCR • NLP*
+
+- **Next Word Prediction using NLP**  
+  *Python • NLP*
+
+---
 
 ## 🛠 Tech Stack
-• Java • Python • JavaScript  
-• HTML • CSS • React • Node.js  
-• MongoDB • MySQL  
-• Git • GitHub • VS Code  
 
+**Languages:** Java, Python, JavaScript, SQL
 
-## 📫 Contact
-• Email: pasumarthiharshita61@gmail.com
+**Frontend:** HTML, CSS, React
+
+**Backend:** Java Swing, JDBC, Node.js
+
+**Databases:** MySQL, MongoDB
+
+**Tools:** Git, GitHub, Eclipse, VS Code
+
+---
+
+## 🌱 Currently Learning
+
+- Java Full Stack Development
+- Spring Boot
+- Data Structures & Algorithms
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** pasumarthiharshita61@gmail.com
