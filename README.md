@@ -7,6 +7,7 @@
 
 ## 🚀 Projects
 • Employee Management and Payroll System (Java)
+
 • DESTINATION STAYS — Hotel Booking Platform (Python)  
 • Prescription Analysis & Medication Adherence System (AI + OCR + NLP)  
 • Next Word Prediction using NLP  
