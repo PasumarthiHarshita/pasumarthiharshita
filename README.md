@@ -23,7 +23,7 @@
 
 **Languages:** Java, Python, JavaScript, SQL
 
-**Frontend:** HTML, CSS, React
+**Frontend:** HTML, CSS, React 
 
 **Backend:** Java Swing, JDBC, Node.js
 
