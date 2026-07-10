@@ -38,6 +38,11 @@
    
 ---
 
+## 🏆 Certifications
+
+- 🏅 **MongoDB Certified Associate Developer**
+- 🏅 **ServiceNow Certified System Administrator (CSA)**
+- 
 ## 🌱 Currently Learning
 
 - Java Full Stack Development
