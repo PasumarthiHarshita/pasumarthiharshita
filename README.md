@@ -32,9 +32,7 @@
 **Tools:** Git, GitHub, Eclipse, VS Code
 
 ---
-## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PasumarthiHarshita&theme=tokyonight&hide_border=true)
    
 ---
 
