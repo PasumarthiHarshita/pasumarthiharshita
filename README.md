@@ -34,7 +34,7 @@
 ---
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=pasumarthiharshita&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=PasumarthiHarshita&theme=tokyonight&hide_border=true)
    
 ---
 
