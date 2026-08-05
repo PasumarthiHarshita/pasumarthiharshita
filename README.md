@@ -6,7 +6,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Developer;SAP+ABAP+Developer;Problem+Solver;Full+Stack+Learner;Always+Learning+New+Technologies" />
 </p>
 
-
 ---
 
 # 👩‍💻 About Me
@@ -152,7 +151,6 @@
 # 🎯 2026 Goals
 
 - ✅ Solve 500+ DSA Problems
-- ✅ Master Spring Boot
 - ✅ Build More Full Stack Projects
 - ✅ Contribute to Open Source
 - ✅ Secure a Software Engineering Internship
