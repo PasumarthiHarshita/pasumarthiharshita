@@ -24,7 +24,7 @@
 Name     : Pasumarthi Harshita
 Degree   : B.Tech – Computer Science & Engineering
 College  : Sri Vasavi Engineering College
-CGPA     : 8.74 / 10
+CGPA     : 8.74 
 Focus    : Java Full Stack & SAP ABAP
 Status   : Open to Software Engineering Opportunities
 ```
@@ -129,6 +129,7 @@ Status   : Open to Software Engineering Opportunities
 |---|---|
 | 🏅 **MongoDB Certified Associate Developer** | MongoDB |
 | 🏅 **ServiceNow Certified System Administrator (CSA)** | ServiceNow |
+| 🏅 **SAP Certified - Back-End Developer - ABAP Cloud** | SAP |
 
 ---
 
