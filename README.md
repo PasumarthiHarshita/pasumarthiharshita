@@ -156,17 +156,6 @@ Also exploring:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PasumarthiHarshita&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasumarthiHarshita&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 ## 🔥 GitHub Streak
 
