@@ -129,6 +129,7 @@ Status   : Open to Software Engineering Opportunities
 |---|---|
 | 🏅 **MongoDB Certified Associate Developer** | MongoDB |
 | 🏅 **ServiceNow Certified System Administrator (CSA)** | ServiceNow |
+| 🏅 **ServiceNow Certified Application Developer (CAD)** | ServiceNow |
 | 🏅 **SAP Certified - Back-End Developer - ABAP Cloud** | SAP |
 
 ---
