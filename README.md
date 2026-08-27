@@ -157,7 +157,6 @@ Also exploring:
 
 ---
 
-
 ## 🔥 GitHub Streak
 
 <div align="center">
@@ -192,7 +191,6 @@ Also exploring:
 
 ## 🎯 2026 Goals
 
-- 🎯 Solve **500+ DSA Problems**
 - 🚀 Master **Spring Boot & Java Full Stack Development**
 - 💻 Build more **real-world projects**
 - 🌐 Contribute to **Open Source**
