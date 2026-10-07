@@ -25,7 +25,7 @@ Name     : Pasumarthi Harshita
 Degree   : B.Tech – Computer Science & Engineering
 College  : Sri Vasavi Engineering College
 CGPA     : 8.76
-Focus    : Java Full Stack & SAP ABAP
+Focus    : Java Full Stack , SAP ABAP & ServiceNow
 Status   : Open to Software Engineering Opportunities
 ```
 
